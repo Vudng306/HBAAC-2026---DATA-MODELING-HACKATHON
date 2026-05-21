@@ -19,3 +19,5 @@ pip install polars lightgbm numpy
 *Step 3: Run the pipeline*
 
 Run the code cell by cell in order.
+
+*Step 4: Obtain the result which is a '.csv' file*
